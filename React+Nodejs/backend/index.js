@@ -1,43 +1,46 @@
-const express = require("express");
-const mysql = require("mysql2/promise");
-const cors = require("cors");
-require("dotenv").config();
+// PAQUETES
+const express = require('express');
+const morgan = require('morgan');
+const cors = require('cors');
+require('dotenv').config();
 
-const app = express();
-app.use(cors());
-app.use(express.json());
+// RUTAS
+const indexRouter = require('./routes/indexRouter')
 
-async function getPool() {
-    if(!global._pool){
-        global._pool = mysql.createPool({
-            host: process.env.DB_HOST,
-            user: process.env.DB_USER,
-            password: process.env.DB_PASS,
-            database: process.env.DB_NAME,
-            waitForConnections: true,
-            connectionLimit: 10,
-        });
-    }
-    return global._pool;
+// SERVIDOR
+class Server {
+
+  constructor() {
+    this.app = express(); // inicializar el servidor
+    // Conexión a base de datos
+    this.config();
+    this.middlewares();
+    // this.routes();
+  }
+
+  config() {
+    this.app.set('port', process.env.API_PORT || 7000);
+  }
+
+  middlewares(){
+    this.app.use(express.json);      // para que todas las respuestas las entregue como json
+    this.app.use(morgan('combied')); // default
+    this.app.use(cors);
+  }
+
+  routes(){
+    // http://localhost:8000/
+    this.app.use('/', indexRouter)
+    this.app.use('/login', indexRouter)
+  }
+
+  start(){
+    this.app.listen(this.app.get('port'), '0.0.0.0', ()=>{
+      console.log('Server is running on port:', this.app.get('port'))
+    })
+  }
+
 }
 
-app.get("/users", async(req, res) => {
-    const pool = await getPool();
-    const [rows] = await pool.query("SELECT * FROM users");
-    res.json(rows);
-});
-
-app.post("/users", async (req, res) =>{
-  const { name, email } = req.body;
-  const pool = await getPool();
-  const [result] = await pool.execute(
-    "INSERT INTO users (name, email) VALUES (?, ?)",
-    [name, email]
-  );
-  const [rows] = await pool.query("SELECT * FROM users WHERE id=?", [result.insertId]);
-  res.json(rows[0]);
-});
-
-
-const PORT = process.env.PORT || 3001;
-app.listen(PORT, () => console.log(`API on port http://localhost:${PORT} and it's running`))
+const server = new Server();
+server.start();

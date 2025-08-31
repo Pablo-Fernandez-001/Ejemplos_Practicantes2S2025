@@ -10,3 +10,12 @@ CREATE TABLE users(
     email VARCHAR(100)
 );
 
+CREATE TABLE register(
+    id  INT PRIMARY KEY,
+    nombre VARCHAR(100),
+    apellido VARCHAR(100),
+    correo VARCHAR(250),
+    direccion  VARCHAR(100),
+    estatura INT,
+)
+

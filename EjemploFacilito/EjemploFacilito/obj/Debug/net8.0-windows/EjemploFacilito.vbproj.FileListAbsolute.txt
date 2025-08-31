@@ -1,0 +1,17 @@
+C:\Users\pabda\Desktop\Ejemplos\EjemploFacilito\EjemploFacilito\bin\Debug\net8.0-windows\EjemploFacilito.exe
+C:\Users\pabda\Desktop\Ejemplos\EjemploFacilito\EjemploFacilito\bin\Debug\net8.0-windows\EjemploFacilito.deps.json
+C:\Users\pabda\Desktop\Ejemplos\EjemploFacilito\EjemploFacilito\bin\Debug\net8.0-windows\EjemploFacilito.runtimeconfig.json
+C:\Users\pabda\Desktop\Ejemplos\EjemploFacilito\EjemploFacilito\bin\Debug\net8.0-windows\EjemploFacilito.dll
+C:\Users\pabda\Desktop\Ejemplos\EjemploFacilito\EjemploFacilito\bin\Debug\net8.0-windows\EjemploFacilito.pdb
+C:\Users\pabda\Desktop\Ejemplos\EjemploFacilito\EjemploFacilito\obj\Debug\net8.0-windows\EjemploFacilito.Form1.resources
+C:\Users\pabda\Desktop\Ejemplos\EjemploFacilito\EjemploFacilito\obj\Debug\net8.0-windows\EjemploFacilito.vbproj.GenerateResource.cache
+C:\Users\pabda\Desktop\Ejemplos\EjemploFacilito\EjemploFacilito\obj\Debug\net8.0-windows\EjemploFacilito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pabda\Desktop\Ejemplos\EjemploFacilito\EjemploFacilito\obj\Debug\net8.0-windows\EjemploFacilito.AssemblyInfoInputs.cache
+C:\Users\pabda\Desktop\Ejemplos\EjemploFacilito\EjemploFacilito\obj\Debug\net8.0-windows\EjemploFacilito.AssemblyInfo.vb
+C:\Users\pabda\Desktop\Ejemplos\EjemploFacilito\EjemploFacilito\obj\Debug\net8.0-windows\EjemploFacilito.vbproj.CoreCompileInputs.cache
+C:\Users\pabda\Desktop\Ejemplos\EjemploFacilito\EjemploFacilito\obj\Debug\net8.0-windows\EjemploFacilito.sourcelink.json
+C:\Users\pabda\Desktop\Ejemplos\EjemploFacilito\EjemploFacilito\obj\Debug\net8.0-windows\EjemploFacilito.dll
+C:\Users\pabda\Desktop\Ejemplos\EjemploFacilito\EjemploFacilito\obj\Debug\net8.0-windows\refint\EjemploFacilito.dll
+C:\Users\pabda\Desktop\Ejemplos\EjemploFacilito\EjemploFacilito\obj\Debug\net8.0-windows\EjemploFacilito.pdb
+C:\Users\pabda\Desktop\Ejemplos\EjemploFacilito\EjemploFacilito\obj\Debug\net8.0-windows\EjemploFacilito.genruntimeconfig.cache
+C:\Users\pabda\Desktop\Ejemplos\EjemploFacilito\EjemploFacilito\obj\Debug\net8.0-windows\ref\EjemploFacilito.dll

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pabda\\Desktop\\Ejemplos\\Ejemplo-Conexi\u00F3n\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{659B113D-04D3-40C8-8442-2825C7F435C2}|Ejemplo-Conexi\u00F3n\\Ejemplo-Conexi\u00F3n.vbproj|c:\\users\\pabda\\desktop\\ejemplos\\ejemplo-conexi\u00F3n\\ejemplo-conexi\u00F3n\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{659B113D-04D3-40C8-8442-2825C7F435C2}|Ejemplo-Conexi\u00F3n\\Ejemplo-Conexi\u00F3n.vbproj|solutionrelative:ejemplo-conexi\u00F3n\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659B113D-04D3-40C8-8442-2825C7F435C2}|Ejemplo-Conexi\u00F3n\\Ejemplo-Conexi\u00F3n.vbproj|c:\\users\\pabda\\desktop\\ejemplos\\ejemplo-conexi\u00F3n\\ejemplo-conexi\u00F3n\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{659B113D-04D3-40C8-8442-2825C7F435C2}|Ejemplo-Conexi\u00F3n\\Ejemplo-Conexi\u00F3n.vbproj|solutionrelative:ejemplo-conexi\u00F3n\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659B113D-04D3-40C8-8442-2825C7F435C2}|Ejemplo-Conexi\u00F3n\\Ejemplo-Conexi\u00F3n.vbproj|c:\\users\\pabda\\desktop\\ejemplos\\ejemplo-conexi\u00F3n\\ejemplo-conexi\u00F3n\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{659B113D-04D3-40C8-8442-2825C7F435C2}|Ejemplo-Conexi\u00F3n\\Ejemplo-Conexi\u00F3n.vbproj|solutionrelative:ejemplo-conexi\u00F3n\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\pabda\\Desktop\\Ejemplos\\Ejemplo-Conexi\u00F3n\\Ejemplo-Conexi\u00F3n\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Ejemplo-Conexi\u00F3n\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\pabda\\Desktop\\Ejemplos\\Ejemplo-Conexi\u00F3n\\Ejemplo-Conexi\u00F3n\\Form1.Designer.vb",
+              "RelativeToolTip": "Ejemplo-Conexi\u00F3n\\Form1.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-07T02:08:55.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\pabda\\Desktop\\Ejemplos\\Ejemplo-Conexi\u00F3n\\Ejemplo-Conexi\u00F3n\\Form1.vb",
+              "RelativeDocumentMoniker": "Ejemplo-Conexi\u00F3n\\Form1.vb",
+              "ToolTip": "C:\\Users\\pabda\\Desktop\\Ejemplos\\Ejemplo-Conexi\u00F3n\\Ejemplo-Conexi\u00F3n\\Form1.vb",
+              "RelativeToolTip": "Ejemplo-Conexi\u00F3n\\Form1.vb",
+              "ViewState": "AgIAAFIAAAAAAAAAAAApwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-06T23:50:17.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pabda\\Desktop\\Ejemplos\\Ejemplo-Conexi\u00F3n\\Ejemplo-Conexi\u00F3n\\Form1.vb",
+              "RelativeDocumentMoniker": "Ejemplo-Conexi\u00F3n\\Form1.vb",
+              "ToolTip": "C:\\Users\\pabda\\Desktop\\Ejemplos\\Ejemplo-Conexi\u00F3n\\Ejemplo-Conexi\u00F3n\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Ejemplo-Conexi\u00F3n\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-06T23:08:50.278Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

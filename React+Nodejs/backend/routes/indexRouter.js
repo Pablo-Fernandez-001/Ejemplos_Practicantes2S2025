@@ -17,11 +17,11 @@ class IndexRoutes {
         // Get -> obtener
         this.router.get('/', IndexController.index)
         // Post -> registrar
-        this.router.post('/', IndexController.index2)
+        // this.router.post('/', IndexController.index2)
         // Put -> actualizar
-        this.router.put('/', IndexController.index2)
+        // this.router.put('/', IndexController.index2)
         // delete -> Eliminar
-        this.router.elimina('/', IndexController.index2)
+        // this.router.elimina('/', IndexController.index2)
 
     }
 }

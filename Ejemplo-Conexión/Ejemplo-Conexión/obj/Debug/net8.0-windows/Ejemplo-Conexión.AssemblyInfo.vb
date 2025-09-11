@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Ejemplo-Conexión"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ea7997c415d9e32931a879117a5e6ac4e12e2db"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccf3bc344984b4c5363a9939c6388ba7681a5ab6"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Ejemplo-Conexión"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Ejemplo-Conexión"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
